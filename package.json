@@ -1,0 +1,19 @@
+{
+  "name": "belajar-vercel",
+  "version": "1.0.0",
+  "description": "belajar vercel by satya wikananda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "atheo810"
+  },
+  "keywords": [
+    "belajar",
+    "learning"
+  ],
+  "author": "atheo810",
+  "license": "ISC"
+}
