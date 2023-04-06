@@ -1,5 +1,5 @@
 module.exports = (req, res) => {
   return res.json({
-    message: "Hello from the API!",
+    message: "Telah melakukan perubahan dan koneksi pada vercel",
   });
 };
